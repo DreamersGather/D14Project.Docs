@@ -1,5 +1,7 @@
 # D14Project 文档
 
+[![Documentation Status](https://readthedocs.org/projects/d14project/badge/?version=latest)](https://d14std.io/projects/en/latest/?badge=latest)
+
 <table><tr>
 <td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Project.Res/main/logo.png" height=41></td>
 <td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height=41></td>
