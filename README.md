@@ -1,6 +1,6 @@
 # D14Project 文档
 
-[![Documentation Status](https://readthedocs.org/projects/d14project/badge/?version=latest)](https://d14std.io/projects/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/d14project/badge/?version=latest)](https://d14std.io/en/latest/?badge=latest)
 
 <img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height="82"/>
 
