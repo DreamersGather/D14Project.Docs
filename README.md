@@ -2,9 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/d14project/badge/?version=latest)](https://d14std.io/projects/en/latest/?badge=latest)
 
-<table><tr>
-<td><img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height=41></td>
-</tr></table>
+<div align=left><img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height="82"/></div>
 
 D14Project.Docs 是 D14Project 项目的开发文档。
 
