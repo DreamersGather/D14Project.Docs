@@ -2,7 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/d14project/badge/?version=latest)](https://d14std.io/en/latest/?badge=latest)
 
-<img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height="82"/>
+<img src="https://media.githubusercontent.com/media/DreamersGather/D14Docs.Res/main/logo.png" height="41"/>
 
 This repository maintains the overview documentation of D14 series projects.
 
